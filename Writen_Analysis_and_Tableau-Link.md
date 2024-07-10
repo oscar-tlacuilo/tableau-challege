@@ -1,5 +1,7 @@
 # Analysis for Citi Bike Project
 
+# Tableau Workbook link: [https://public.tableau.com/app/profile/oscar.tlacuilo/vizzes]
+
 ## Overview
 This analysis aims to uncover interesting phenomena from the Citi Bike trip data and provide insights into the program's usage patterns. Using data from December 2023, March 2024, and April 2024, we have designed visualizations and dashboards to explore various aspects of the bike-sharing program.
 
